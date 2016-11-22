@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/vrtadmin/FIRST-server
+[submodule "plugin-ida"]
+	path = plugin-ida
+	url = https://github.com/vrtadmin/FIRST-plugin-ida
