@@ -1,3 +1,7 @@
+# ARCHIVED PROJECT
+
+THIS PROJECT HAS BEEN ARCHIVED AND ITS ISSUE QUEUE IS LOCKED. THE PROJECT WILL BE KEPT PUBLIC ONLY FOR REFERENCE PURPORSES.
+
 # FIRST - Function Identification and Recovery Signature Tool
 
 Please look below to find links to the various FIRST components.
